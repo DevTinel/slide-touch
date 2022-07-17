@@ -12,6 +12,7 @@ slide touch responsivo
 5 - no index.js/script.js usar o codigo abaixo : 
 
 const slide = new Slide('.slide','.slide-wrapper');
+
 slide.init();
 
 6 - importar o slide.css para o index.css/style.css.
